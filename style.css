@@ -539,6 +539,19 @@ border-radius: 16px;
   transform:scale(1.1);
   z-index: 2;
 }
+.out
+img{
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+border-style: solid;
+border-radius: 16px;
+}
+.out  img:hover{
+  transform:scale(1.1);
+  z-index: 2;
+}
 .man{
   margin-left: 50px;
   margin-bottom: 20px;
